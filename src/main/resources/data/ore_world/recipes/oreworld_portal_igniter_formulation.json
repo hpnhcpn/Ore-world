@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal_block"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    },
+    "3": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "minecraft:lapis_block"
+    },
+    "5": {
+      "item": "minecraft:diamond_block"
+    },
+    "6": {
+      "item": "minecraft:emerald_block"
+    },
+    "7": {
+      "item": "minecraft:smooth_quartz"
+    },
+    "8": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "ore_world:oreworld",
+    "count": 1
+  }
+}

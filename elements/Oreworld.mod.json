@@ -1,0 +1,60 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Coalbiome"
+      },
+      {
+        "value": "CUSTOM:Ironbiome"
+      },
+      {
+        "value": "CUSTOM:Redstonebiome"
+      },
+      {
+        "value": "CUSTOM:Goldenbiome"
+      },
+      {
+        "value": "CUSTOM:Lapislazulibiome"
+      },
+      {
+        "value": "CUSTOM:Diamondbiome"
+      },
+      {
+        "value": "CUSTOM:Netherquartzbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "portalParticles": {
+      "value": "WATER_DROP"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Oreworld Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Oreworldtab"
+    },
+    "texture": "oreworld_portal_igniter_texture",
+    "portalTexture": "oreworld_portal_block_texture",
+    "enablePortal": true
+  }
+}

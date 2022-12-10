@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="ore_world"
+version="1.0.0"
+displayName="Ore world"
+credits="本模组由花皮鸟和草皮鸟制作。This module is made by hpnhcpn."
+displayURL="https://www.kuaishou.com/profile/3xcs4chgu3fj6fs"
+logoFile="logo.png"
+authors="花皮鸟和草皮鸟(hpnhcpn)"
+description='''
+添加了矿石世界维度，可以在里面采矿。Added ore world dimension, which can be mined inside.
+'''
+
+[[dependencies.ore_world]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

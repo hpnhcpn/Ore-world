@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Ore world ",
+    "icon": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "showSearch": true
+  }
+}

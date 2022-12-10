@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ore_world:block/oreworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "ore_world:block/oreworld_portal_ns"
+    }
+  }
+}
