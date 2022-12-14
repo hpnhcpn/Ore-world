@@ -6,5 +6,3 @@ Added ore world dimension, which can be mined inside.
 感谢游玩！
 Thanks for playing!
 
-网址:https://www.kuaishou.com/profile/3xcs4chgu3fj6fs。
-Url:https://www.kuaishou.com/profile/3xcs4chgu3fj6fs.
